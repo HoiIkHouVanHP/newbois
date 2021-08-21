@@ -1,2 +1,2 @@
 local lib = require(game.ReplicatedStorage:WaitForChild("Framework"):WaitForChild("Library"))
-lib.Message.New("peep pee")
+lib.Message.New("you dumbass")
